@@ -1,0 +1,12 @@
+Dataset Used: Iris Flower Dataset
+
+Features:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+Classes:
+- Setosa
+- Versicolor
+- Virginica
